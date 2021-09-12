@@ -1,4 +1,4 @@
-# Covid_Health_Center
+# Covid_Health_Center(Text-Interface)
 
 Simulation of the Implementation of an application for the management of a health clinic specialized in Covid-19.
 The services provided by the clinic are tests (antibodies, antigens and PCR) and vaccinations (Pfizer, Moderna and J&J). 
